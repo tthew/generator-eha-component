@@ -1,0 +1,11 @@
+{
+  "name": "generator-eha-component",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.18.9"
+  }
+}
