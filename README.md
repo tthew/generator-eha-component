@@ -16,6 +16,8 @@ npm i -g git@github.com:eHealthAfrica/generator-eha-component.git
 yo eha-component:app
 ```
 
+## License
+
 Copyright 2015 Matt Richards (eHealthAfrica)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
